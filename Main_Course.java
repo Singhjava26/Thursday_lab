@@ -18,7 +18,7 @@ public class Main_Course extends Main_food_class
 		t= "vegbiryani";
 		
 		
-		u = 180;
+		u = 200;
 		v = 200;
 		w = 200;
 		x = 180;
@@ -31,11 +31,11 @@ public class Main_Course extends Main_food_class
 				
 		System.out.println("********* MAIN COURCE *********"); 
 		System.out.println("Select Main course");
-		System.out.println("A> "+p +"\t\tRs."+u);
-		System.out.println("B> "+q +"\t\tRs."+v);
-		System.out.println("C> "+r +"\t\t\tRs."+w);
-		System.out.println("D> "+s +"\t\t\tRs."+x);
-		System.out.println("E> "+t +"\t\t\tRs."+y);
+		System.out.println("P: "+p +"\t\tRs."+u);
+		System.out.println("Q: "+q +"\t\tRs."+v);
+		System.out.println("R: "+r +"\t\t\tRs."+w);
+		System.out.println("S: "+s +"\t\t\tRs."+x);
+		System.out.println("T: "+t +"\t\t\tRs."+y);
 		
 
 		select_menu_item();
