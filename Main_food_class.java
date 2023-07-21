@@ -46,13 +46,13 @@ public class Main_food_class
 
 				case 2 :{
 					Main_Course mc = new Main_Course ();
-					
+					mc.Course();
 					break;
 				}
 
 				case 3 :{
 					Deserts des = new Deserts();
-					
+					des.desert();
 					break;
 				}
 
@@ -115,7 +115,7 @@ public class Main_food_class
 				
 				
 				else {
-					System.out.println("Sorry, not item not availabe....");
+					System.out.println("Sorry, this item not availabe....");
 				}
 
 
@@ -136,7 +136,7 @@ public class Main_food_class
 
 
 
-                //	for repeat process ...
+                //	for repeating process ...
 		public static void repeat() {
 			System.out.println("Do you want anything else...(y / n)");
 
