@@ -21,16 +21,16 @@ public class Deserts extends Main_food_class {
 
 			u = 180;
 			v = 160;
-			w = 150;
+			w = 190;
 			x = 160;
-			y = 150;
+			y = 190;
 
 			System.out.println("********* DESERTS MENU **********");
-			System.out.println("A: "+p +"\t\tRs."+u);
-			System.out.println("B: "+q +"\t\tRs."+v);
-			System.out.println("C: "+r +"\t\tRs."+w);
-			System.out.println("D: "+s +"\t\tRs."+x);
-			System.out.println("D: "+t +"\t\tRs."+y);
+			System.out.println("P: "+p +"\t\tRs."+u);
+			System.out.println("Q: "+q +"\t\tRs."+v);
+			System.out.println("R: "+r +"\t\tRs."+w);
+			System.out.println("S: "+s +"\t\tRs."+x);
+			System.out.println("T: "+t +"\t\tRs."+y);
 
 
 			select_menu_item();
