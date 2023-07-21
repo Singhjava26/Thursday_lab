@@ -26,6 +26,7 @@ public class Deserts extends Main_food_class {
 			y = 190;
 
 			System.out.println("********* DESERTS MENU **********");
+			System.out.println("Select deserts");
 			System.out.println("P: "+p +"\t\tRs."+u);
 			System.out.println("Q: "+q +"\t\tRs."+v);
 			System.out.println("R: "+r +"\t\tRs."+w);
