@@ -32,11 +32,11 @@ public class Drinks extends Main_food_class
 								
 		System.out.println("********* DRINKS MENU **********"); 
 		System.out.println("Select drinks");
-		System.out.println("A: "+p +"\t\tRs."+u);
-		System.out.println("B: "+q +"\t\tRs."+v);
-		System.out.println("C: "+r +"\t\tRs."+w);
-		System.out.println("D: "+s +"\t\tRs."+x);
-		System.out.println("D: "+t +"\t\tRs."+y);
+		System.out.println("P: "+p +"\t\tRs."+u);
+		System.out.println("Q: "+q +"\t\tRs."+v);
+		System.out.println("R: "+r +"\t\tRs."+w);
+		System.out.println("S: "+s +"\t\tRs."+x);
+		System.out.println("T: "+t +"\t\tRs."+y);
 		
 		
 		//Main_food_class obj=new Main_food_class();
